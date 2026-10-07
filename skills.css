@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+nav {
+    background-color: #222;
+    color: white;
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav h2 {
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.skills {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.skills h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skill {
+    background-color: white;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    border-left: 5px solid #222;
+}
+
+.skill h3 {
+    margin-top: 0;
+}
